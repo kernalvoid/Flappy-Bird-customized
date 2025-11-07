@@ -1,0 +1,3 @@
+/home/war3achine/sfml_games/first_sfml/build/CMakeFiles/SFMLGame.dir
+/home/war3achine/sfml_games/first_sfml/build/CMakeFiles/edit_cache.dir
+/home/war3achine/sfml_games/first_sfml/build/CMakeFiles/rebuild_cache.dir
